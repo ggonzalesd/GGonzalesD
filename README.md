@@ -1,16 +1,20 @@
+![](https://komarev.com/ghpvc/?username=ggonzalesd)
+
+![](./gBxP6oJ.gif)
+
 <div style="width:100%; background-color:#226; display:flex; justify-content:center; padding: 10px 0px">
   <h1>I'm GGonzales 👋</h1>
 </div>
 <br/>
 
 > Check my projects https://ggonzalesd.vercel.app/en/projects
+> Check imgparser.com https://imgparser.com
 
 ## Social Media
 
 > email: grober_gonzales@hotmail.com<br/>
 > phone: +51 946 814 055
 
-![](https://komarev.com/ghpvc/?username=ggonzalesd)
 
 ## Skills
 
